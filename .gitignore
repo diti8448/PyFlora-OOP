@@ -1,0 +1,16 @@
+# Ignoriraj SQLite bazu podataka (generira se automatski)
+*.db
+
+# Ignoriraj privremenu mapu za slike
+temp_plants/
+
+# Ignoriraj Pythonov cache (ubrzava kôd lokalno, ali ne treba na GitHubu)
+__pycache__/
+
+# Ignoriraj virtualna okruženja (ako ih koristiš)
+venv/
+.venv/
+
+# Ignoriraj sistemske datoteke koje Windows sam stvara
+Thumbs.db
+Desktop.ini
